@@ -40,6 +40,22 @@ The engine executes the following logic:
 
 ---
 
+## Screenshots and Portfolio Evidence
+
+### **Figure 1: Field Extraction and Validation**
+This screenshot demonstrates the engine generating a random log, prompting for a specific extraction, and validating a successful RegEx input.
+
+![Figure 1 — Field Extraction](Screenshot_20260620_131139.png)
+
+---
+
+### **Figure 2: The Contextual Hint Engine**
+This screenshot demonstrates the error-handling and auto-hint capabilities. When an incorrect pattern is entered, the engine catches the failure, does not crash, and provides a contextual hint breaking down the required RegEx syntax for that specific log type.
+
+![Figure 2 — Contextual Hint Engine](Screenshot_20260620_131602.png)
+
+---
+
 ## AI-Assistance Transparency
 
 AI tools were utilized to assist in the development of the Python logic and RegEx hint formatting. All logic was reviewed, tested, and validated manually to ensure accuracy.

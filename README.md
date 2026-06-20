@@ -40,16 +40,6 @@ The engine executes the following logic:
 
 ---
 
-## Screenshots and Portfolio Evidence
-
-### **Figure 1: Field Extraction and Validation**
-*(Take a screenshot of the terminal successfully passing a prompt and put it here)*
-
-### **Figure 2: The Contextual Hint Engine**
-*(Take a screenshot of the terminal failing an attempt and triggering a hint, and put it here)*
-
----
-
 ## AI-Assistance Transparency
 
 AI tools were utilized to assist in the development of the Python logic and RegEx hint formatting. All logic was reviewed, tested, and validated manually to ensure accuracy.

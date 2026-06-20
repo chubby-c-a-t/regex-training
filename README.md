@@ -50,7 +50,7 @@ This screenshot demonstrates the engine generating a random log, prompting for a
 ---
 
 ### **Figure 2: The Contextual Hint Engine**
-This screenshot demonstrates the error-handling and auto-hint capabilities. When an incorrect pattern is entered, the engine catches the failure, does not crash, and provides a contextual hint breaking down the required RegEx syntax for that specific log type.
+This screenshot demonstrates hints which assist in learning appropriate RegEx if an incorrect answer is supplied.
 
 ![Figure 2 — Contextual Hint Engine](Screenshot_20260620_131602.png)
 

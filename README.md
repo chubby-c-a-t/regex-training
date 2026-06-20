@@ -15,7 +15,7 @@ This project was specifically built to drill down on the skills required to conf
 
 ## Security Context
 
-An analyst's ability to hunt threats is directly tied to the quality of the data in their SIEM. If an SSH brute-force log or a WAF block log is not properly parsed upon ingestion, critical indicators of compromise (IoCs) will not trigger alerts. This trainer models the exact logs an analyst must normalize to ensure security telemetry is accurately indexed.
+An analyst's ability to hunt threats is directly tied to the quality of the data in their SIEM. If an SSH brute-force log or a WAF block log is not properly parsed upon ingestion, critical indicators of compromise (IoCs) will not trigger alerts. This trainer models the exact logs an analyst must normalise to ensure security telemetry is accurately indexed.
 
 ---
 
@@ -24,7 +24,7 @@ An analyst's ability to hunt threats is directly tied to the quality of the data
 This tool requires no external dependencies outside of standard Python libraries.
 
 1. **Python 3.x:** Ensure Python is installed on your system.
-2. **Linux/Unix Environment:** The script utilizes the `readline` library for terminal navigation (arrow key support), which is native to Unix-like environments.
+2. **Linux/Unix Environment:** The script utilises the `readline` library for terminal navigation (arrow key support), which is native to Unix-like environments.
 
 ---
 
@@ -58,7 +58,7 @@ This screenshot demonstrates the error-handling and auto-hint capabilities. When
 
 ## AI-Assistance Transparency
 
-AI tools were utilized to assist in the development of the Python logic and RegEx hint formatting. All logic was reviewed, tested, and validated manually to ensure accuracy.
+AI tools were utilised to assist in the development of the Python logic and RegEx hint formatting. All logic was reviewed, tested, and validated manually to ensure accuracy.
 
 ---
 
